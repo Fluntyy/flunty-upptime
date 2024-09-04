@@ -14,16 +14,16 @@ status-website:
   cname: status.flunty.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://flunty.xyz/favicon.svg
-  name: Flunty's Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Flunty's Website Status
+  introTitle: "Welcome to **Flunty's Website Status**, powered by [Upptime](https://upptime.js.org)! This page shows the real-time operational status of my website."
+  introMessage: ""
   navbar:
     - title: Status
       href: /
     - title: Website
       href: https://flunty.xyz
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
