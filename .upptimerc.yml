@@ -15,8 +15,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://flunty.xyz/favicon.svg
   name: Flunty's Website Status
-  introTitle: "Welcome to **Flunty's Website Status**, powered by [Upptime](https://upptime.js.org)! This page shows the real-time operational status of my website."
-  introMessage: ""
+  introTitle: "Welcome to **Flunty's Website Status**!"
+  introMessage: "This page shows the real-time operational status of my websites, powered by [Upptime](https://upptime.js.org)."
   navbar:
     - title: Status
       href: /
