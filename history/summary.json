@@ -22,19 +22,19 @@
     "url": "https://files.flunty.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/files.flunty.xyz.ico",
     "slug": "file-server",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "89.08%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "89.08%",
+    "time": 449,
+    "timeDay": 449,
+    "timeWeek": 449,
+    "timeMonth": 449,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2024-09-04": 0
+      "2024-09-04": 18
     }
   }
 ]
